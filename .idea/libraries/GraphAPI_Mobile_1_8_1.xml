@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GraphAPI_Mobile_1_8_1" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../frameworks/facebookApiAs3/GraphAPI_Mobile_1_8_1.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

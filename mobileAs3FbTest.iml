@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="mobileAs3FbTest">
+    <configurations>
+      <configuration name="mobileAs3FbTest" target-platform="Mobile" pure-as="true" main-class="MobileAs3FbTest" output-file="MobileAs3FbTest.swf" output-folder="$MODULE_DIR$/out/production/mobileAs3FbTest">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-name="GraphAPI_Mobile_1_8_1" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="src" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.6.0" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android package-file-name="MobileAs3FbTest" />
+        <packaging-ios enabled="true" package-file-name="MobileAs3FbTest">
+          <AirSigningOptions sdk="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk" keystore-path="$MODULE_DIR$/../frameworks/iphone-developer-certificate.p12" provisioning-profile-path="$MODULE_DIR$/../frameworks/KaribuTeam.mobileprovision" />
+        </packaging-ios>
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.6.0" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="GraphAPI_Mobile_1_8_1" level="project" />
+    <orderEntry type="library" exported="" name="src" level="project" />
+  </component>
+</module>
+
