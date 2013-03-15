@@ -10,6 +10,7 @@
     <file path="/Dummy.txt" changelist="c33715c0-62cf-4bf0-aefa-168cafda44e6" time="1363292075916" ignored="false" />
     <file path="$PROJECT_DIR$/../memory/src/com/karibugames/memory/ui/PopupRanking.as" changelist="c33715c0-62cf-4bf0-aefa-168cafda44e6" time="1363281921495" ignored="false" />
     <file path="$PROJECT_DIR$/../memory/Memory.iml" changelist="c33715c0-62cf-4bf0-aefa-168cafda44e6" time="1363295257024" ignored="false" />
+    <file path="/README.md" changelist="c33715c0-62cf-4bf0-aefa-168cafda44e6" time="1363364058318" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +80,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FacebookInitializer.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FacebookInitializer.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FacebookInitializer.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="76" selection-start="869" selection-end="869" vertical-scroll-proportion="0.4009434">
+            <state line="36" column="76" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="26" selection-start="411" selection-end="411" vertical-scroll-proportion="0.28301886">
               <folding />
             </state>
           </provider>
@@ -127,6 +137,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/FacebookInitializer.as" />
         <option value="$PROJECT_DIR$/src/MobileAs3FbTest.as" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -596,13 +607,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mobileAs3FbTest.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MobileAs3FbTest.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="41" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.0">
@@ -709,7 +713,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FacebookInitializer.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="76" selection-start="869" selection-end="869" vertical-scroll-proportion="0.4009434">
+        <state line="36" column="76" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="411" selection-end="411" vertical-scroll-proportion="0.28301886">
           <folding />
         </state>
       </provider>
